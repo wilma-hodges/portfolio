@@ -1,0 +1,3 @@
+themeinfo = hereDoc(function(){/*!
+
+*/});
