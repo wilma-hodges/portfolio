@@ -1,3 +1,0 @@
-themeinfo = hereDoc(function(){/*!
-
-*/});
